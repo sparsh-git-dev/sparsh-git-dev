@@ -60,6 +60,9 @@
 
 ### 📊 GitHub Stats
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sparsh-git-dev&show_icons=true&locale=en&layout=compact" alt="sparsh-git-dev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sparsh-git-dev&show_icons=true&locale=en" alt="sparsh-git-dev" /></p>
+
 ![Sparsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sparshchoudhary&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sparshchoudhary&layout=compact&theme=radical)
