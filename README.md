@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ### Hi there, I'm Sparsh Choudhary! 👋
 
 🚀 **Senior Flutter & iOS Engineer | DSA Enthusiast | Web3 & Blockchain Investor | LinkedIn Top Voice in Computer Science**
