@@ -15,14 +15,16 @@
 
 ---
 
-### 🛠 Tech Stack
+<h3 align="left">Languages and Tools:</h3>
 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
-![GetX](https://img.shields.io/badge/GetX-DC382D?style=flat&logo=flutter&logoColor=white)  
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)  
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)  ](https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg)
+https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg
+https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg
+https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg
+https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg
+https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg
+https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg
+
 
 ---
 
