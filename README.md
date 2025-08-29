@@ -5,7 +5,7 @@
 ---
 
 ### 🔥 About Me
-- 🏗 **Flutter Developer** with **2.5+ years** of full-time experience (plus 10 months of internship) specializing in scalable, high-performance apps.
+- 🏗 **Flutter Developer** with **3+ years** of full-time experience (plus 10 months of internship) specializing in scalable, high-performance apps.
 - 🏦 Currently working in **SimplfyVMS**, focusing on **app performance, architecture, and optimizations**.
 - 💡 Passionate about **DSA & Algorithms**—solving **LeetCode** problems daily.
 - 🌐 Crypto, Blockchain & Web3 Enthusiast—investing and researching since 2020.
